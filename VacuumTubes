@@ -21,13 +21,20 @@
 
 <div ><h1>The History of Vacuum Tubes</h1>
 
-<p>
-
-
+<p>In electronics, a vacuum tube, an electron tube, or just a tube,
+is a device that controls electric current between electrodes in an evacuated container. Vacuum tubes mostly rely on thermionic emission 
+of electrons from a hot filament or a cathode heated by the filament. This type is called a thermionic tube or thermionic valve. A phototube, 
+however, achieves electron emission through the photoelectric effect. Not all electronic circuit valves/electron tubes are vacuum tubes
+gas-filled tubes are similar devices containing a gas, typically at low pressure, which exploit phenomena related to electric discharge in gases, usually without a heater.
+The simplest vacuum tube, the diode, contains only a heater, a heated electron-emitting cathode, and a plate. 
+Current can only flow in one direction through the device between the two electrodes, as electrons emitted by the cathode travel through the tube and are collected by the anode. 
+Adding one or more control grids within the tube allows the current between the cathode and anode to be controlled by the voltage on the grid or grids.
+Tubes with grids can be used for many purposes, including amplification, rectification, switching, oscillation, and display.
 
 </p>
 
-<p> 
+<p> I think that this invention is very important to the history of computers because without them, all of the electronics from the first 
+half of the twentieth century wouldn't have worked. Also, we never would have made the jump to capacitors later on in history.
 
 
 </p> 
